@@ -1,0 +1,20 @@
+nama = device_brand
+kode = device_serial
+m3full = device_model
+ukuran = device_color
+m2 = m2
+m2 x 2 = mx2
+m3prod	mprod
+keterangan = kg
+photo = device_photo
+
+
+id_inventory
+supllier
+kode
+tgl_masuk
+jml
+warna
+customer
+hrg_nota
+kirim

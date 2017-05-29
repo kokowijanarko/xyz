@@ -1,0 +1,1282 @@
+Time : 17:01:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = '9.5644', 
+							mx2 = '19.1288', 
+							kg = 'sdh cek',  
+							cek = '' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'FA 150', 
+							device_model = '0.85fsfsdf', 
+							device_color = 'P125 x L50 x T136', 
+							device_serial = 'FA 150', 
+							device_description = '<p>550000</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '9.5644', 
+							mx2 = '19.1288', 
+							kg = 'sdh cek',  
+							cek = 'mustakim',
+							mprod = '',
+							WHERE device_id = '31'
+
+Time : 17:00:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'sdfsdf',
+							WHERE device_id = '44'
+
+Time : 16:59:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdasd',
+							WHERE device_id = '44'
+
+Time : 16:56:55
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdsad',
+							WHERE device_id = '44'
+
+Time : 16:53:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'asdasd',
+							WHERE device_id = '44'
+
+Time : 16:52:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasddasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasddasdasdasdasd',
+							mprod = 'dasdasd',
+							WHERE device_id = '44'
+
+Time : 16:50:39
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'sdfsdfd',
+							WHERE device_id = '44'
+
+Time : 16:50:06
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdsad',
+							WHERE device_id = '44'
+
+Time : 16:48:11
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2dasd', 
+							mx2 = 'm2 x 2dasd', 
+							kg = 'keterangan',  
+							c' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2dasd', 
+							mx2 = 'm2 x 2dasd', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasd',
+							WHERE device_id = '44'
+
+Time : 16:47:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdsad',
+							WHERE device_id = '44'
+
+Time : 16:46:41
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'zdfzsdfzs',
+							WHERE device_id = '44'
+
+Time : 16:44:14
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'fsdfsf',
+							WHERE device_id = '44'
+
+Time : 16:41:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2dasd', 
+							mx2 = 'm2 x 2dasd', 
+							kg = 'keterangan',  
+							c' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2dasd', 
+							mx2 = 'm2 x 2dasd', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasd',
+							WHERE device_id = '44'
+
+Time : 16:40:27
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdsad',
+							WHERE device_id = '44'
+
+Time : 16:38:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2dasd', 
+							mx2 = 'm2 x 2dasd', 
+							kg = 'keterangan',  
+							c' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2dasd', 
+							mx2 = 'm2 x 2dasd', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'asdasd',
+							WHERE device_id = '44'
+
+Time : 16:34:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdasd',
+							WHERE device_id = '44'
+
+Time : 16:31:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdasd',
+							WHERE device_id = '44'
+
+Time : 16:29:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'da' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan',  
+							cek = 'dasdasdasd',
+							mprod = 'dasdasd',
+							WHERE device_id = '44'
+
+Time : 16:28:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdas',
+							WHERE device_id = '44'
+
+Time : 16:28:17
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'asdasdsa',
+							WHERE device_id = '44'
+
+Time : 16:20:25
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2dasdsa', 
+							mx2 = 'dasds', 
+							kg = 'keterangan', 
+							kg1 =' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasddsad</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2dasdsa', 
+							mx2 = 'dasds', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasda',
+							WHERE device_id = '44'
+
+Time : 16:19:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2ghfhfghgf', 
+							mx2 = 'fhfgh', 
+							kg = 'keterangan', 
+							kg' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2ghfhfghgf', 
+							mx2 = 'fhfgh', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'jfghfh',
+							WHERE device_id = '44'
+
+Time : 16:19:08
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdad',
+							WHERE device_id = '44'
+
+Time : 16:18:18
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'ertert', 
+							mx2 = 'tertert', 
+							kg = 'keterangan', 
+							kg1 =' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'ertert', 
+							mx2 = 'tertert', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'terter',
+							WHERE device_id = '44'
+
+Time : 16:17:04
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2gg', 
+							mx2 = 'm2 gdfgfd', 
+							kg = 'keterangan', 
+							kg1 =' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2gg', 
+							mx2 = 'm2 gdfgfd', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = '',
+							WHERE device_id = '44'
+
+Time : 16:13:30
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'qweq', 
+							mx2 = 'eqweqe', 
+							kg = 'keterangan', 
+							kg1 = ''' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'qweq', 
+							mx2 = 'eqweqe', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = '',
+							WHERE device_id = '44'
+
+Time : 16:10:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'm2', 
+							mx2 = 'm2 x 2', 
+							kg = 'keterangan', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = '',
+							WHERE device_id = '44'
+
+Time : 16:08:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'fsdfsdf', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'fsdfsdf', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = '',
+							WHERE device_id = '44'
+
+Time : 16:04:56
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdsad', 
+							mx2 = 'asdsa', 
+							kg = 'dasdsa', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdsad', 
+							mx2 = 'asdsa', 
+							kg = 'dasdsa', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdsa',
+							WHERE device_id = '44'
+
+Time : 16:03:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdsa', 
+							mx2 = 'dasdas', 
+							kg = 'dasdsa', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdsa', 
+							mx2 = 'dasdas', 
+							kg = 'dasdsa', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdas',
+							WHERE device_id = '44'
+
+Time : 16:02:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdasd', 
+							mx2 = 'dasdas', 
+							kg = 'dasda', 
+							kg1 = '', ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasddad</p>', 
+							device_photo = './assets/images/device_photos/Kode ku.png',   
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdasd', 
+							mx2 = 'dasdas', 
+							kg = 'dasda', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdsa',
+							WHERE device_id = '44'
+
+Time : 15:59:40
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdasd', 
+							mx2 = 'dasdas', 
+							kg = 'dasd', 
+							kg1 = '', 
+' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							device_photo = './assets/images/device_photos/Kode ku.jpg',   
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdasd', 
+							mx2 = 'dasdas', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdas',
+							WHERE device_id = '44'
+
+Time : 15:58:47
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = '', 
+							mx2 = '', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '', 
+							mx2 = '', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasd',
+							WHERE device_id = '44'
+
+Time : 15:57:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdsa', 
+							mx2 = 'asdaf', 
+							kg = 'dasd', 
+							kg1 = '', 
+		' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdsa', 
+							mx2 = 'asdaf', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = 'dasdas',
+							WHERE device_id = '44'
+
+Time : 15:55:35
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = '', 
+							mx2 = 'asdaf', 
+							kg = '', 
+							kg1 = '', 
+							cek =' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '', 
+							mx2 = 'asdaf', 
+							kg = '', 
+							kg1 = '', 
+							cek = 'dasdasdasd',
+							mprod = '',
+							WHERE device_id = '44'
+
+Time : 15:54:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = '', 
+							mx2 = 'dsad', 
+							kg = '', 
+							kg1 = '', 
+							cek = ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'FA 150', 
+							device_model = '0.85', 
+							device_color = 'P125 x L50 x T136', 
+							device_serial = 'FA 150', 
+							device_description = '<p>550000</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '', 
+							mx2 = 'dsad', 
+							kg = '', 
+							kg1 = '', 
+							cek = 'mustakim',
+							mprod = '',
+							WHERE device_id = '31'
+
+Time : 15:43:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dsad', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dsad', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '',
+							mprod = '',
+							WHERE device_id = '44'
+
+Time : 15:36:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'sda', 
+							mx2 = 'dsad', 
+							kg = '', 
+							kg1 = '', 
+							cek' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'dasdasdasd', 
+							device_model = 'fsdfsfsdfsdf', 
+							device_color = 'fsdfsdfsdfsdfsff', 
+							device_serial = 'dasdsasaasfsdfsdfd', 
+							device_description = '<p>fsdfsfsd</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'sda', 
+							mx2 = 'dsad', 
+							kg = '', 
+							kg1 = '', 
+							cek = '',
+							mprod = '', 
+							
+							WHERE device_id = '45'
+
+Time : 15:33:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdsa', 
+							mx2 = 'dasdas', 
+							kg = 'dasd', 
+							kg1 = '', 
+	' at line 14
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdsa', 
+							mx2 = 'dasdas', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = 'dasda',
+							mprod = 'dsad', 
+							
+							WHERE device_id = '44'
+
+Time : 15:32:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasd', 
+							mx2 = 'dasd', 
+							kg = 'dasd', 
+							kg1 = '', 
+					' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'FA 150', 
+							device_model = '0.85', 
+							device_color = 'P125 x L50 x T136', 
+							device_serial = 'FA 150', 
+							device_description = '<p>550000</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasd', 
+							mx2 = 'dasd', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = 'dasd',
+							mprod = 'dasda', 
+							
+							WHERE device_id = '31'
+
+Time : 15:32:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dasdasd', 
+							mx2 = 'dasd', 
+							kg = 'dasd', 
+							kg1 = '', 
+		' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dasdasd', 
+							mx2 = 'dasd', 
+							kg = 'dasd', 
+							kg1 = '', 
+							cek = 'dasd',
+							mprod = 'dasdas', 
+							
+							WHERE device_id = '44'
+
+Time : 15:31:09
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'fsdf', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = ' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'fsdf', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '',
+							mprod = '', 
+							
+							WHERE device_id = '44'
+
+Time : 15:29:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dsd', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dsd', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '',
+							mprod = '', 
+							
+							WHERE device_id = '44'
+
+Time : 15:27:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'dsd', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'dsd', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '',
+							mprod = '', 
+							
+							WHERE device_id = '44'
+
+Time : 15:26:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = 'fghgfh', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek ' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = 'fghgfh', 
+							mx2 = '', 
+							kg = '', 
+							kg1 = '', 
+							cek = '',
+							mprod = '', 
+							
+							WHERE device_id = '44'
+
+Time : 15:24:44
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'device_m2 = 'sds', 
+							device_mx2 = '', 
+							device_kg = '', 
+							devi' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							device_m2 = 'sds', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_kg1 = '', 
+							device_cek = '',
+							device_m3_prod = '', 
+							note = '',
+							WHERE device_id = '44'
+
+Time : 15:23:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'device_m2 = 'd', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'FA 150', 
+							device_model = '0.85', 
+							device_color = 'P125 x L50 x T136', 
+							device_serial = 'FA 150', 
+							device_description = '<p>550000</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							device_m2 = 'd', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_kg1 = '', 
+							device_cek = '',
+							device_m3_prod = '', 
+							note = '',
+							WHERE device_id = '31'
+
+Time : 15:13:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'device_m2 = '', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							device_m2 = '', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_kg1 = '', 
+							device_cek = '',
+							device_m3_prod = '', 
+							note = '',
+							WHERE device_id = '44'
+
+Time : 15:11:54
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'device_m2 = '', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Nama', 
+							device_model = 'm3 full', 
+							device_color = 'ukuran', 
+							device_serial = 'Kode ku', 
+							device_description = '<p>dasdasd</p>', 
+							  
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							device_m2 = '', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_kg1 = '', 
+							device_cek = '',
+							device_m3_prod = '', 
+							note = '',
+							WHERE device_id = '44'
+
+Time : 13:29:46
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'device_m2 = '', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_' at line 15
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'ok', 
+							device_model = '32472347', 
+							device_color = 'fsfsdf', 
+							device_serial = '13131', 
+							device_description = '<p>fsdfsd</p>', 
+							device_photo = './assets/images/device_photos/13131.png',   
+							device_status = '', 
+							location_id = '', 
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							device_m2 = '', 
+							device_mx2 = '', 
+							device_kg = '', 
+							device_kg1 = '', 
+							device_cek = '',
+							device_m3_prod = '', 
+							note = '',
+							WHERE device_id = '39'

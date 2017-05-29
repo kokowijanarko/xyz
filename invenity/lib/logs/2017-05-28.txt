@@ -1,0 +1,68 @@
+Time : 04:21:32
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE device_id = '67'' at line 18
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'ceking aja', 
+							device_model = '', 
+							device_color = '', 
+							device_serial = 'cekaja', 
+							device_description = '', 
+							device_photo = './assets/images/device_photos/img_cekaja_4.jpg,./assets/images/device_photos/file_cekaja_4.xlsx,./assets/images/device_photos/img_cekaja_2.png,./assets/images/device_photos/img_cekaja_3.png,./assets/images/device_photos/file_cekaja_2.xlsx,./assets/images/device_photos/file_cekaja_3.pdf',
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1,
+							m2 = '0', 
+							mx2 = '0', 
+							kg = '',  
+							cek = '',
+							mprod = '',
+							WHERE device_id = '67'
+
+Time : 04:20:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = '0', 
+							mx2 = '0', 
+							kg = '',  
+							cek = '',
+							mprod = ' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'ceking aja', 
+							device_model = '', 
+							device_color = '', 
+							device_serial = 'cekaja', 
+							device_description = '', 
+							device_photo = './assets/images/device_photos/img_cekaja_4.jpg,./assets/images/device_photos/file_cekaja_4.xlsx,./assets/images/device_photos/img_cekaja_2.png,./assets/images/device_photos/img_cekaja_3.png,./assets/images/device_photos/file_cekaja_2.xlsx,./assets/images/device_photos/file_cekaja_3.pdf',
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '0', 
+							mx2 = '0', 
+							kg = '',  
+							cek = '',
+							mprod = '',
+							WHERE device_id = '67'
+
+Time : 04:19:37
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_da' at line 9
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'ceking aja', 
+							device_model = '', 
+							device_color = '', 
+							device_serial = 'cekaja', 
+							device_description = '', 
+							device_photo = './assets/images/device_photos/img_cekaja_4.jpg,./assets/images/device_photos/file_cekaja_4.xlsx,./assets/images/device_photos/img_cekaja_2.png,./assets/images/device_photos/img_cekaja_3.png,./assets/images/device_photos/file_cekaja_2.xlsx,./assets/images/device_photos/file_cekaja_3.pdf';  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '0', 
+							mx2 = '0', 
+							kg = '',  
+							cek = '',
+							mprod = '',
+							WHERE device_id = '67'

@@ -1,0 +1,104 @@
+Time : 15:26:26
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'm2 = '11', 
+							mx2 = '11', 
+							kg = 'china',  
+							cek = 'IM',
+						' at line 13
+Raw SQL : UPDATE device_list 
+							SET 
+							device_brand = 'Lingerie Chest', 
+							device_model = '2.25', 
+							device_color = 'W160 X D64 X H220', 
+							device_serial = 'FA 972', 
+							device_description = '<p>dasdas</p>', 
+							  
+							device_deployment_date = NOW(), 
+							updated_by = 'admin', 
+							updated_date = NOW(), 
+							revision = revision+1 
+							m2 = '11', 
+							mx2 = '11', 
+							kg = 'china',  
+							cek = 'IM',
+							mprod = 'aseawe',
+							WHERE device_id = '56'
+
+Time : 10:45:49
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 17
+Raw SQL : SELECT 
+					a.*, 
+					b.`type_name`, 
+					c.`location_name`,
+					d.`place_id`, 
+					d.`building_id`, 
+					d.`floor_id`,  
+					lp.`place_name`,  
+					lb.`building_name`,  
+					lf.`floor_name`  
+				FROM device_list a 
+				INNER JOIN device_type b ON a.`type_id` = b.`type_id` 
+				LEFT JOIN location c ON a.`location_id` = c.`location_id` 
+				LEFT JOIN location_details d ON c.`location_id` = d.`location_id` 
+				LEFT JOIN location_place lp ON d.`place_id` = lp.`place_id`  
+				LEFT JOIN location_building lb ON d.`building_id` = lb.`building_id`  
+				LEFT JOIN location_floor lf ON d.`floor_id` = lf.`floor_id`ORDER BY  ASC
+
+Time : 10:45:48
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 17
+Raw SQL : SELECT 
+					a.*, 
+					b.`type_name`, 
+					c.`location_name`,
+					d.`place_id`, 
+					d.`building_id`, 
+					d.`floor_id`,  
+					lp.`place_name`,  
+					lb.`building_name`,  
+					lf.`floor_name`  
+				FROM device_list a 
+				INNER JOIN device_type b ON a.`type_id` = b.`type_id` 
+				LEFT JOIN location c ON a.`location_id` = c.`location_id` 
+				LEFT JOIN location_details d ON c.`location_id` = d.`location_id` 
+				LEFT JOIN location_place lp ON d.`place_id` = lp.`place_id`  
+				LEFT JOIN location_building lb ON d.`building_id` = lb.`building_id`  
+				LEFT JOIN location_floor lf ON d.`floor_id` = lf.`floor_id`ORDER BY  ASC
+
+Time : 08:55:52
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 17
+Raw SQL : SELECT 
+					a.*, 
+					b.`type_name`, 
+					c.`location_name`,
+					d.`place_id`, 
+					d.`building_id`, 
+					d.`floor_id`,  
+					lp.`place_name`,  
+					lb.`building_name`,  
+					lf.`floor_name`  
+				FROM device_list a 
+				INNER JOIN device_type b ON a.`type_id` = b.`type_id` 
+				LEFT JOIN location c ON a.`location_id` = c.`location_id` 
+				LEFT JOIN location_details d ON c.`location_id` = d.`location_id` 
+				LEFT JOIN location_place lp ON d.`place_id` = lp.`place_id`  
+				LEFT JOIN location_building lb ON d.`building_id` = lb.`building_id`  
+				LEFT JOIN location_floor lf ON d.`floor_id` = lf.`floor_id`ORDER BY  ASC
+
+Time : 08:55:50
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ASC' at line 17
+Raw SQL : SELECT 
+					a.*, 
+					b.`type_name`, 
+					c.`location_name`,
+					d.`place_id`, 
+					d.`building_id`, 
+					d.`floor_id`,  
+					lp.`place_name`,  
+					lb.`building_name`,  
+					lf.`floor_name`  
+				FROM device_list a 
+				INNER JOIN device_type b ON a.`type_id` = b.`type_id` 
+				LEFT JOIN location c ON a.`location_id` = c.`location_id` 
+				LEFT JOIN location_details d ON c.`location_id` = d.`location_id` 
+				LEFT JOIN location_place lp ON d.`place_id` = lp.`place_id`  
+				LEFT JOIN location_building lb ON d.`building_id` = lb.`building_id`  
+				LEFT JOIN location_floor lf ON d.`floor_id` = lf.`floor_id`ORDER BY  ASC
